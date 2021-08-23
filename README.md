@@ -3,6 +3,9 @@
 Client:
 https://github.com/ans9611/Investment-Advisor-Client
 
+deployment:
+https://ans9611.github.io/Investment-Advisor-Client/
+
 ## Introduction
 ```md
 Most of people keep money in a bank, which has lowest interest yield. I want to create a investment portfolio management advisor for passive investors.
