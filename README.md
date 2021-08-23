@@ -1,5 +1,7 @@
 # Project 2 Plan
 
+Client:
+https://github.com/ans9611/Investment-Advisor-Client
 
 ## Introduction
 ```md
